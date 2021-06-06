@@ -1,0 +1,45 @@
+Script started on 2021-04-12 16:08:49+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ gcc 190020020.c -o 190020020 -lm
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.2 -s 0.01 -T 500 -o ki1.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 2 -m 1 -n 1 -f 0.2 -s 0.01 -T 500 -o ki2.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 3 -m 1 -n 1 -f 0.2 -s 0.01 -T 500 -o ki3.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 4 -m 1 -n 1 -f 0.2 -s 0.01 -T 500 -o ki4.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.2 -s 0.01 -T 500 -o km1.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1.33 -n 1 -f 0.2 -s 0.01 -T 500 -o km2.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1.66 -n 1 -f 0.2 -s 0.01 -T 500 -o km3.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 2 -n 1 -f 0.2 -s 0.01 -T 500 -o km4.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 0.5 -f 0.2 -s 0.01 -T 500 -o kn1.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ V\[K[K./190020020 -i 1 -m 1 -n 1 -f 0.2 -s 0.01 -T 500 -o kn2.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1.5 -f 0.2 -s 0.01 -T 500 -o kn3.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 2 -f 0.2 -s 0.01 -T 500 -o kn4.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.1 -s 0.01 -T 500 -o kf1.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.2 -s 0.01 -T 500 -o kf2.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.3 -s 0.01 -T 500 -o kf3.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.5 -s 0.01 -T 500 -o kf4.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.2 -s 0.1 -T 500 -o ks1.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.2 -s 0.1 -T 500 -o ks2.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.2 -s 0.50 -T 500 -o ks3.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ ./190020020 -i 1 -m 1 -n 1 -f 0.2 -s 0.9 -T 500 -o ks4.txt
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ gnuplot
+
+	G N U P L O T
+	Version 5.2 patchlevel 8    last modified 2019-12-01 
+
+	Copyright (C) 1986-1993, 1998, 2004, 2007-2019
+	Thomas Williams, Colin Kelley and many others
+
+	gnuplot home:     http://www.gnuplot.info
+	faq, bugs, etc:   type "help FAQ"
+	immediate help:   type "help"  (plot window: hit 'h')
+
+Terminal type is now 'qt'
+gnuplot> plot 'ki1.txt', 'ki2.txt','ki3.txt','ki4.txt' w l
+gnuplot> 'km1.txt', 'km2.txt','km3.txt','km4.txt' w l[10G[1@p'[11G[1@l'[12G[1@o'[13G[1@t'[14G[1@ '
+gnuplot>  plot 'kn1.txt', 'kn2.txt','kn3.txt','kn4.txt' w l [10G[Pp
+gnuplot> ^[[A[10Gplot 'kn1.txt', 'kn2.txt','kn3.txt','kn4.txt' w l[48G[P4[48G[1@f4[38G[P3[38G[1@f3[28G[P2[28G[1@f2[17G[P1[17G[1@f1
+gnuplot> plot 'ks1.txt', 'ks2.txt','ks3.txt','ks4.txt' w l
+gnuplot> exit
+]0;karthik@karthikubuntu: ~/Lab8CN_190020020[01;32mkarthik@karthikubuntu[00m:[01;34m~/Lab8CN_190020020[00m$ exit
+exit
+
+Script done on 2021-04-12 16:13:26+05:30 [COMMAND_EXIT_CODE="0"]
